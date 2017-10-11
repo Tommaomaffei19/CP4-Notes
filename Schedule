@@ -1,0 +1,111 @@
+ <!DOCTYPE html>
+  <table>
+   <thead>
+      <tr>
+        <th>Day 1</th>
+        <th>Day 2</th>
+        <th>Day 3</th>
+		<th>Day 4</th>
+		<th>Day 5</th>
+		<th>Day 6</th>
+		<th>Day 7</th>
+		<th>Day 8</th>
+		<th>Day A1</th>
+		<th>Day A3</th>
+		<th>Day A6</th>
+      </tr>
+   </thead>
+   <tbody>
+	<tr>
+	 <td>Science</tfoot>
+	 <td>Math</td>
+	 <td>English</td>
+	 <td>Math</td>
+	 <td>French</td>
+	 <td>Computer Programing</td>
+	 <td>English</td>
+	 <td>Gym</td>
+	 <td>    </td>
+	 <td>English</td>
+	 <td>History</td>
+	</tr>
+   </tbody>
+   <tbody>
+	<tr>
+	 <td>Math</td>
+	 <td>Theater Arts</tfoot>
+	 <td>Science</td>
+	 <td>Computer Programing</td>
+	 <td>Theater Arts</td>
+	 <td>Science</td>
+	 <td>Science</td>
+	 <td>Math</td>
+	 <td>Computer Programing</td>
+	 <td>Computer Programing</td>
+	 <td>Computer Programing</td>
+	</tr>
+   </tbody>
+     
+   <tbody>
+	<tr>
+	 <td>Math</tfoot>
+	 <td>French</td>
+	 <td>History</td>
+	 <td>Gym</td>
+	 <td>Religion</td>
+	 <td>History</td>
+	 <td>Math</td>
+	 <td>English</td>
+	 <td>English</td>
+	 <td>English</td>
+	 <td>History</td>
+	</tr>
+   </tbody>
+   
+   <tbody>
+	<tr>
+	 <td>Computer Programing</tfoot>
+	 <td>History</td>
+	 <td>Hr</td>
+	 <td>Speech</td>
+	 <td>History</td>
+	 <td>Theater Arts</td>
+	 <td>LA4</td>
+	 <td>Speech</td>
+	 <td>    </td>
+	 <td>    </td>
+	 <td>    </td>
+	</tr>
+   </tbody>
+   
+   <tbody>
+	<tr>
+	 <td>Computer Programing</td>
+	 <td>Science</td>
+	 <td>Math</td>
+	 <td>Science</td>
+	 <td>Science</td>
+	 <td>Theater Arts</td>
+	 <td>Religion</td>
+	 <td>French</td>
+	 <td>French</td>
+	 <td>French</td>
+	 <td>French</td>
+	</tr>
+   </tbody>
+   
+   <tbody>
+	<tr>
+	 <td>History</tfoot>
+	 <td>English</td>
+	 <td>French</td>
+	 <td>Religion</td>
+	 <td>English</td>
+	 <td>Math</td>
+	 <td>French</td>
+	 <td>Theater Arts</td>
+	 <td>History</td>
+	 <td>History</td>
+	 <td>     </td>
+	</tr>
+   </tbody>
