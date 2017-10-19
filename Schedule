@@ -1,7 +1,12 @@
- <!DOCTYPE html>
-  <table>
-   <thead>
-      <tr>
+<!DOCTYPE html>
+  <html>
+  
+    <thead>
+	<link href="new1.css" type="text/css" rel="stylesheet">
+ 
+   <table border= "25">
+      
+	  <tr>
         <th>Day 1</th>
         <th>Day 2</th>
         <th>Day 3</th>
@@ -14,7 +19,7 @@
 		<th>Day A3</th>
 		<th>Day A6</th>
       </tr>
-   </thead>
+    </thead>
    <tbody>
 	<tr>
 	 <td>Science</tfoot>
@@ -109,3 +114,5 @@
 	 <td>     </td>
 	</tr>
    </tbody>
+   
+  </html>   
