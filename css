@@ -1,13 +1,43 @@
-<!DOCTYPE html>
- <html>
-  <thead>
-  < style>
-    tbody {
-     background-color: lightblue;
-   }
-  </style>
- </thead>
-<tbody>
+table  { 
+color: teal;
+border-color: darkgreen;
+}
 
-</body>
-</html>
+.science{
+	background-color: yellow;
+}
+
+.math{
+	background-color: orange;
+}
+
+.english{
+	background-color: pink;
+}
+.french{
+	background-color: lightblue;
+}
+
+.religion{
+	background-color: purple;
+}
+
+.computer-programming{
+	background-color: grey;
+}
+
+.theater-arts{
+	background-color: violet;
+}
+
+.history{
+	background-color: maroon;
+}
+
+.gym{
+	background-color:magenta;
+}
+
+.speech{
+	background-color:lightpurple;
+}
