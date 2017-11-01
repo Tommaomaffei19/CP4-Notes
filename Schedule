@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
   <html>
   
     <thead>
@@ -22,29 +22,29 @@
     </thead>
    <tbody>
 	<tr>
-	 <td>Science</tfoot>
-	 <td>Math</td>
-	 <td>English</td>
-	 <td>Math</td>
-	 <td>French</td>
+	 <td class="science">Science</td>
+	 <td class="math">Math</td>
+	 <td class="english">English</td>
+	 <td class="math">Math</td>
+	 <td class="french">French</td>
 	 <td>Computer Programing</td>
-	 <td>English</td>
+	 <td class="english">English</td>
 	 <td>Gym</td>
 	 <td>    </td>
-	 <td>English</td>
+	 <td class="english">English</td>
 	 <td>History</td>
 	</tr>
    </tbody>
    <tbody>
 	<tr>
 	 <td>Religion</td>
-	 <td>Theater Arts</tfoot>
-	 <td>Science</td>
+	 <td>Theater Arts</td>
+	 <td class="science">Science</td>
 	 <td>Computer Programing</td>
 	 <td>Theater Arts</td>
-	 <td>Science</td>
-	 <td>Science</td>
-	 <td>Math</td>
+	 <td class="science">Science</td>
+	 <td class="science">Science</td>
+	 <td class="math">Math</td>
 	 <td>Computer Programing</td>
 	 <td>Computer Programing</td>
 	 <td>Computer Programing</td>
@@ -53,23 +53,23 @@
      
    <tbody>
 	<tr>
-	 <td>Math</tfoot>
-	 <td>French</td>
+	 <td class="math">Math</td>
+	 <td class="french">French</td>
 	 <td>History</td>
 	 <td>Gym</td>
 	 <td>Religion</td>
 	 <td>History</td>
-	 <td>Math</td>
-	 <td>English</td>
-	 <td>English</td>
-	 <td>English</td>
+	 <td class="math">Math</td>
+	 <td class="english">English</td>
+	 <td class="english">English</td>
+	 <td class="english">English</td>
 	 <td>History</td>
 	</tr>
    </tbody>
    
    <tbody>
 	<tr>
-	 <td>Computer Programing</tfoot>
+	 <td>Computer Programing</td>
 	 <td>History</td>
 	 <td>Hr</td>
 	 <td>Speech</td>
@@ -86,28 +86,28 @@
    <tbody>
 	<tr>
 	 <td>Computer Programing</td>
-	 <td>Science</td>
-	 <td>Math</td>
-	 <td>Science</td>
-	 <td>Science</td>
+	 <td class="science">Science</td>
+	 <td class="math">Math</td>
+	 <td class="science">Science</td>
+	 <td class="science">Science</td>
 	 <td>Theater Arts</td>
 	 <td>Religion</td>
-	 <td>French</td>
-	 <td>French</td>
-	 <td>French</td>
-	 <td>French</td>
+	 <td class="french">French</td>
+	 <td class="french">French</td>
+	 <td class="french">French</td>
+	 <td class="french">French</td>
 	</tr>
    </tbody>
    
    <tbody>
 	<tr>
-	 <td>History</tfoot>
-	 <td>English</td>
-	 <td>French</td>
+	 <td>History</td>
+	 <td class="english">English</td>
+	 <td class="french">French</td>
 	 <td>Religion</td>
-	 <td>English</td>
-	 <td>Math</td>
-	 <td>French</td>
+	 <td class="english">English</td>
+	 <td class="math">Math</td>
+	 <td class="french">French</td>
 	 <td>Theater Arts</td>
 	 <td>History</td>
 	 <td>History</td>
