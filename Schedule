@@ -2,9 +2,9 @@
   <html>
   
     <thead>
-	<link href="new1.css" type="text/css" rel="stylesheet">
+	<link href="style.css" type="text/css" rel="stylesheet">
  
-   <table border= "25">
+   <table border= "15">
       
 	  <tr>
         <th>Day 1</th>
@@ -37,7 +37,7 @@
    </tbody>
    <tbody>
 	<tr>
-	 <td>Math</td>
+	 <td>Religion</td>
 	 <td>Theater Arts</tfoot>
 	 <td>Science</td>
 	 <td>Computer Programing</td>
