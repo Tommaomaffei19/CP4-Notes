@@ -1,23 +1,24 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
   <html>
-  
+   <h1> Schedule </h1>
+   
     <thead>
 	<link href="style.css" type="text/css" rel="stylesheet">
  
    <table border= "15">
-      
+      <!--this my days-->
 	  <tr>
-        <th>Day 1</th>
-        <th>Day 2</th>
-        <th>Day 3</th>
-		<th>Day 4</th>
-		<th>Day 5</th>
-		<th>Day 6</th>
-		<th>Day 7</th>
-		<th>Day 8</th>
-		<th>Day A1</th>
-		<th>Day A3</th>
-		<th>Day A6</th>
+        <th class="day1">Day 1</th>
+        <th class="day2">Day 2</th>
+        <th class="day3">Day 3</th>
+		<th class="day4">Day 4</th>
+		<th class="day5">Day 5</th>
+		<th class="day6">Day 6</th>
+		<th class="day7">Day 7</th>
+		<th class="day8">Day 8</th>
+		<th class="A1">Day A1</th>
+		<th class="A3">Day A3</th>
+		<th class="A6">Day A6</th>
       </tr>
     </thead>
    <tbody>
@@ -27,27 +28,27 @@
 	 <td class="english">English</td>
 	 <td class="math">Math</td>
 	 <td class="french">French</td>
-	 <td>Computer Programing</td>
+	  <td class= "computer-programing">Computer Programing</td>
 	 <td class="english">English</td>
-	 <td>Gym</td>
-	 <td>    </td>
+	 <td class="gym">Gym</td>
+	 <td class="Ntg">    </td>
 	 <td class="english">English</td>
-	 <td>History</td>
+	 <td class="history">History</td>
 	</tr>
    </tbody>
    <tbody>
 	<tr>
-	 <td>Religion</td>
-	 <td>Theater Arts</td>
+	 <td class="religion">Religion</td>
+	 <td class="theater-arts">Theater Arts</td>
 	 <td class="science">Science</td>
-	 <td>Computer Programing</td>
-	 <td>Theater Arts</td>
+	 <td class= "computer-programing">Computer Programing</td>
+	 <td class="theater-arts">Theater Arts</td>
 	 <td class="science">Science</td>
 	 <td class="science">Science</td>
 	 <td class="math">Math</td>
-	 <td>Computer Programing</td>
-	 <td>Computer Programing</td>
-	 <td>Computer Programing</td>
+	 <td class= "computer-programing">Computer Programing</td>
+	 <td class= "computer-programing">Computer Programing</td>
+	 <td class= "computer-programing">Computer Programing</td>
 	</tr>
    </tbody>
      
@@ -55,43 +56,43 @@
 	<tr>
 	 <td class="math">Math</td>
 	 <td class="french">French</td>
-	 <td>History</td>
-	 <td>Gym</td>
-	 <td>Religion</td>
-	 <td>History</td>
+	 <td class="history">History</td>
+	 <td class="gym">Gym</td>
+	 <td class="religion">Religion</td>
+	 <td class="history">History</td>
 	 <td class="math">Math</td>
 	 <td class="english">English</td>
 	 <td class="english">English</td>
 	 <td class="english">English</td>
-	 <td>History</td>
+	 <td class="history">History</td>
 	</tr>
    </tbody>
    
    <tbody>
 	<tr>
-	 <td>Computer Programing</td>
-	 <td>History</td>
+	  <td class= "computer-programing">Computer Programing</td>
+	 <td class="history">History</td>
 	 <td>Hr</td>
-	 <td>Speech</td>
-	 <td>History</td>
-	 <td>Theater Arts</td>
+	 <td class="speech">Speech</td>
+	 <td class="history">History</td>
+	 <td class="theater-arts">Theater Arts</td>
 	 <td>LA4</td>
-	 <td>Speech</td>
-	 <td>    </td>
-	 <td>    </td>
-	 <td>    </td>
+	 <td class="speech">Speech</td>
+	 <td> lunch   </td>
+	 <td class="Ntg">    </td>
+	 <td> lunch    </td>
 	</tr>
    </tbody>
    
    <tbody>
 	<tr>
-	 <td>Computer Programing</td>
+	  <td class= "computer-programing">Computer Programing</td>
 	 <td class="science">Science</td>
 	 <td class="math">Math</td>
 	 <td class="science">Science</td>
 	 <td class="science">Science</td>
-	 <td>Theater Arts</td>
-	 <td>Religion</td>
+	 <td class="theater-arts">Theater Arts</td>
+	 <td class="religion">Religion</td>
 	 <td class="french">French</td>
 	 <td class="french">French</td>
 	 <td class="french">French</td>
@@ -101,17 +102,17 @@
    
    <tbody>
 	<tr>
-	 <td>History</td>
+	 <td class="history">History</td>
 	 <td class="english">English</td>
 	 <td class="french">French</td>
-	 <td>Religion</td>
+	 <td class="religion">Religion</td>
 	 <td class="english">English</td>
 	 <td class="math">Math</td>
 	 <td class="french">French</td>
-	 <td>Theater Arts</td>
-	 <td>History</td>
-	 <td>History</td>
-	 <td>     </td>
+	 <td class="theater-arts">Theater Arts</td>
+	 <td class="history">History</td>
+	 <td class="history">History</td>
+	 <td class="Ntg">    </td>
 	</tr>
    </tbody>
    
