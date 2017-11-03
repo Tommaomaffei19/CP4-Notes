@@ -8,11 +8,11 @@ border-color: darkgreen;
 }
 
 .math{
-	background-color: orange;
+	background-color: darkorange;
 }
 
 .english{
-	background-color: pink;
+	background-color: darkpink;
 }
 .french{
 	background-color: lightblue;
@@ -22,7 +22,7 @@ border-color: darkgreen;
 	background-color: purple;
 }
 
-.computer-programming{
+.computer-programing{
 	background-color: grey;
 }
 
@@ -39,5 +39,69 @@ border-color: darkgreen;
 }
 
 .speech{
-	background-color:lightpurple;
+	background-color:coral;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bold;
+}
+
+.Ntg{
+	background-color:black;
+}
+
+.day1{
+	height: 2px;
+	width: 8px;
+}
+
+.day2{
+	height: 2px;
+	width: 8px;
+}
+
+.day3{
+	height: 2px;
+	width: 8px;
+}
+
+.day4{
+	height: 2px;
+	width: 8px;
+}
+
+.day5{
+	height: 2px;
+	width: 8px;
+}
+
+.day6{
+	height: 2px;
+	width: 8px;
+}
+
+.day7{
+	height: 2px;
+	width: 8px;
+}
+
+.day8{
+	height: 2px;
+	width: 8px;
+}
+
+.A1{
+	height: 2px;
+	width: 8px;
+}
+
+.A3{
+	height: 2px;
+	width: 8px;
+}
+
+.A6{
+	height: 2px;
+	width: 8px;
 }
