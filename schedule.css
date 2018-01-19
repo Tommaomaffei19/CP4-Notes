@@ -1,29 +1,34 @@
 table  { 
-color: teal;
-border-color: darkgreen;
+color: black;
+border-color: black;
 }
+
 
 .science{
 	background-color: yellow;
 }
 
 .math{
-	background-color: darkorange;
+	background-color: CornflowerBlue;
 }
 
 .english{
-	background-color: darkpink;
+	background-color: LightGrey;
 }
 .french{
 	background-color: lightblue;
 }
 
 .religion{
-	background-color: purple;
+	background-color: Khaki;
+}
+
+.Hr{
+	background-color: Tan;
 }
 
 .computer-programing{
-	background-color: grey;
+	background-color: Plum;
 }
 
 .theater-arts{
@@ -31,11 +36,11 @@ border-color: darkgreen;
 }
 
 .history{
-	background-color: maroon;
+	background-color: RosyBrown;
 }
 
 .gym{
-	background-color:magenta;
+	background-color:PaleGreen;
 }
 
 .speech{
@@ -49,6 +54,10 @@ h1 {
 
 .Ntg{
 	background-color:black;
+}
+
+.Advisors{
+	background-color: DarkSalmon;
 }
 
 .day1{
@@ -105,3 +114,23 @@ h1 {
 	height: 2px;
 	width: 8px;
 }
+#mySearch{
+ width: 40%;
+ padding: 10px 20px 10px 40px;
+}
+ 
+#myInput {
+    background-image: url('fa fa-search'); /* Add a search icon to input */
+    background-position: 10px 12px; /* Position the search icon */
+    background-repeat: no-repeat; /* Do not repeat the icon image */
+    width: 60%; /* Full-width */
+    font-size: 16px; /* Increase font-size */
+    padding: 10px 20px 10px 40px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+    margin-bottom: 12px; /* Add some space below the input */
+}
+
+
+
+
+}                               
