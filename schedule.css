@@ -115,7 +115,7 @@ h1 {
 	width: 8px;
 }
 #mySearch{
- width: 40%;
+ width: 10%;
  padding: 10px 20px 10px 40px;
 }
  
@@ -123,7 +123,7 @@ h1 {
     background-image: url('fa fa-search'); /* Add a search icon to input */
     background-position: 10px 12px; /* Position the search icon */
     background-repeat: no-repeat; /* Do not repeat the icon image */
-    width: 60%; /* Full-width */
+    width: 80%; /* Full-width */
     font-size: 16px; /* Increase font-size */
     padding: 10px 20px 10px 40px; /* Add some padding */
     border: 1px solid #ddd; /* Add a grey border */
