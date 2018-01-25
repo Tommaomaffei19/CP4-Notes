@@ -3,6 +3,9 @@ color: black;
 border-color: black;
 }
 
+html {
+	background-color: silver;
+}
 
 .science{
 	background-color: yellow;
@@ -28,7 +31,7 @@ border-color: black;
 }
 
 .computer-programing{
-	background-color: Plum;
+	background-color: tomato;
 }
 
 .theater-arts{
@@ -57,7 +60,7 @@ h1 {
 }
 
 .Advisors{
-	background-color: DarkSalmon;
+	background-color: MediumSlateBlue;
 }
 
 .day1{
@@ -117,6 +120,9 @@ h1 {
 #mySearch{
  width: 10%;
  padding: 10px 20px 10px 40px;
+ text-align: left;
+ font-size: 14px;
+ background-color: gold;
 }
  
 #myInput {
@@ -128,6 +134,8 @@ h1 {
     padding: 10px 20px 10px 40px; /* Add some padding */
     border: 1px solid #ddd; /* Add a grey border */
     margin-bottom: 12px; /* Add some space below the input */
+	background-color: magenta;
+	
 }
 
 
