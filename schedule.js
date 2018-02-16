@@ -3,7 +3,7 @@
 var expr = documen.getElementById("myImput");
 switch (expr){
   case 'math'
-    console.log ('i have math');
+   classSearch = 'math'
     break;
   case 'english':
     break;
@@ -32,3 +32,6 @@ switch (expr){
   case 'science':
     break;
 }
+var selectedClass = document.getElementsByClassName('myInput')
+ for (i= 0; 1 < selectedClass.lench ; i ++)
+    selectedClass [i].innerHTML = "FindCode"
