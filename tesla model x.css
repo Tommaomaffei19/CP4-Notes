@@ -1,15 +1,9 @@
-h1 {
-  top: 18px;
-  left: 10px;
-  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
-  color: white,
-}
+h1{
+	background-color: blue;
 
-img{
-	height: 54px;
-	
-}
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
 
+}
 
 
 ul {
@@ -39,6 +33,3 @@ li a:hover:not(.active) {
 .active {
     background-color: #4CAF50;
 }
-
-
-
